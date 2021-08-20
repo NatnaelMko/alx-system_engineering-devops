@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -exec ls -am {}
+find -exec ls -am {} +
