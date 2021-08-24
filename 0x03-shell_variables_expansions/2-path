@@ -1,2 +1,2 @@
 #!/bin/bash
-vi ~/.tcshrc
+export PATH=$PATH:/action
