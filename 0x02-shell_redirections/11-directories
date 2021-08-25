@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep '^d' | grep -wvc '\./'
+ls -lRa | grep '^d' | grep -vc '\./'
